@@ -1,6 +1,7 @@
 @media (max-width:776px) {
     #cursor {
         font-size: 4vw;
+        display:none;
     }
 
     #navUpper {
