@@ -1,7 +1,7 @@
 @media (max-width:776px) {
     #cursor {
         font-size: 4vw;
-        display:none;
+        display: none;
     }
 
     #navUpper {
@@ -193,6 +193,7 @@
         height: 12vw;
         width: 93vw;
         border-radius: 1.5vw;
+        font-size: 4vw;
     }
 
     #enqForm form input::placeholder {
@@ -326,5 +327,4 @@
         height: 24vw;
         width: 22vw;
     }
-
 }
